@@ -1,1 +1,2 @@
+unzip blitz.zip
 
